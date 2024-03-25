@@ -1,3 +1,5 @@
+src-link thesis_packages /workdir/thesis_packages
+
 src-git packages https://git.openwrt.org/feed/packages.git;openwrt-23.05
 src-git luci https://git.openwrt.org/project/luci.git;openwrt-23.05
 src-git routing https://git.openwrt.org/feed/routing.git;openwrt-23.05
